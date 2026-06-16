@@ -1,8 +1,7 @@
 node_modules/
 .next/
 venv/
-**pycache**/
-.env
-.env.local
-*.log
+__pycache__/
 .ipynb_checkpoints/
+*.log
+.env.local
